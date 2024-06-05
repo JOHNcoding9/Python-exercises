@@ -24,7 +24,8 @@ milimetro=25.4*polegada
 print(f"{polegada} polegadas correspondem a {milimetro} mm ")
 #exercicio 3 Criar um script em linguagem Python que pergunte quanto você ganha por hora e o
 #número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido
-#mês.
+#mês.
+
 hora=int(input("quantas horas voce trabalha por mês ? "))
 ganha=float(input("quantas voce ganha por hora trabalhada  ? "))
 print(f"seu salario ao fim do mês será de {hora*ganha}")
@@ -34,7 +35,8 @@ print(f"seu salario ao fim do mês será de {hora*ganha}")
 #R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável
 #peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de
 #quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima
-#os dados do programa com as mensagens adequadas.
+#os dados do programa com as mensagens adequadas.
+
 peixe=float(input("quantidade de kilos de peixe ? "))
 excesso= peixe-50
 if excesso>0 :
