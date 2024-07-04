@@ -24,11 +24,7 @@ print(f"Jogador jogou {jogada}")
 print("-=-"*30)
 if jogada==computador:
  print("EMPATE !!")
-elif jogada=="Pedra" and computador=="Papel":
- print("Você Perdeu !!")
-elif jogada=="Papel" and computador=="Tesoura":
- print("Você Perdeu !!")
-elif jogada=="Tesoura" and computador=="Pedra":
+elif jogada=="Pedra" and computador=="Papel" or jogada=="Papel" and computador=="Tesoura" or jogada=="Tesoura" and computador=="Pedra":
  print("Você Perdeu !!")
 else:
  print("Você Venceu !!")
