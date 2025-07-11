@@ -10,3 +10,9 @@ As you progress, the exercises become more challenging and cover a wider range o
 > If you're a beginner, this is a highly recommended resource.
 
 📺 [Exercises Playlist](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+
+## 👤 Author
+
+João Vitor de Oliveira Lima
+📧 ghostcode541@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/joãovitordeoliveira-lima)
